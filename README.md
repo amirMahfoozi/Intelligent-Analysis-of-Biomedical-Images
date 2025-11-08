@@ -7,7 +7,8 @@
 A curated repository of materials for the course **Intelligent Analysis of Biomedical Images**:
 lecture notes, slides, notebooks, and paper presentations.
 
-![Badge]([https://img.shields.io/badge/Course-IABI-blue.svg](https://eng.ox.ac.uk/media/4679/my-post.png?width=1920&height=520&v=1d9e2269c3a2070&quality=75&format=webp))
+<img width="1920" height="520" alt="image" src="https://github.com/user-attachments/assets/f04a8a8a-a55e-4e31-933c-cddbca675750" />
+
 
 
 ---
